@@ -2,4 +2,7 @@ web-crawler is a notification-based webcrawling and -scraping tool, aiming to al
 license: creative commons, open source
 credit: niklas furtlehner, niklas maurer, gregor rack @JKU
 
-webscraper app > webscraper website > webscraper console app
+steps:
+1. build webscraper console app
+2. build webscraper website
+3. build webscraper app
