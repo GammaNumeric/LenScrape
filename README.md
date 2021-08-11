@@ -1,2 +1,3 @@
-# web-crawler
-notification based webcrawling tool
+web-crawler is a notification-based webcrawling tool, aiming to alert users upon updates on selected sites and services.
+license: creative commons, open source
+credit: niklas furtlehner, niklas maurer, gregor rack @JKU
